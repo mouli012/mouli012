@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mouli_12)
+## 📈 Yearly Graph
+![LeetCode Yearly Graph](https://leetgraph.vercel.app/api?username=mouli_12)
