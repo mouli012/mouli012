@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 ## 📈 Yearly Graph
 ## 🧩 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mouli_12?font=monospace&ext=activity)
-
-## 📈 Yearly Graph
-![LeetCode Yearly Graph](https://leetgraph.vercel.app/api?username=mouli_12)
