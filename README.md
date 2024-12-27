@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🧩 LeetCode Stats
-## 📈 Yearly Graph
-## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/mouli_12?font=monospace&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mouli_12?theme=light)
