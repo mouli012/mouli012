@@ -1,4 +1,4 @@
-## Hi there 👋
+## Leetcode # 👋
 
 <!--
 **mouli012/mouli012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
